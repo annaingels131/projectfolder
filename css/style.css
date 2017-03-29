@@ -1,0 +1,21 @@
+/*=========UNIVERSALS===========*/
+
+
+/*==============NAV BAR =========*/
+.nav-bar {
+  min-height: 0px;
+  margin-bottom: 0px;
+}
+
+.nav-tabs>li>a {
+  background-color: #ebe;
+  color: #000;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus {
+  background-color: #ebe;
+}
+
+.jumbotron {
+  text-align: center;
+}
